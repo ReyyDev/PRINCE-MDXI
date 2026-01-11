@@ -1,6 +1,6 @@
 {
-  "name": "PRINCE-MDX",
-  "description": "PRINCE-MDX is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
+  "name": "PRINCE",
+  "description": "PRINCE is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
   "logo": "https://raw.githubusercontent.com/Mayelprince/url/refs/heads/main/menun.jpg",
   "keywords": ["whatsapp user bot", "user bot", "nodejs", "bot", "whatsapp bot", "multi device", "yasiya-md"],
   "success_url": "/",
